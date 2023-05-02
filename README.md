@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution]()
-- Live Site URL: [Demo]()
+- Solution URL: [solution](https://github.com/engatef2012/Order-summary-component)
+- Live Site URL: [Demo](https://engatef2012.github.io/Order-summary-component/)
 
 ## My process
 
